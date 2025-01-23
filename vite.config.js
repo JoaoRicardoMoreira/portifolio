@@ -13,7 +13,7 @@ export default defineConfig({
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
-  base:'/portifolio',
+  base:'/portifolio/',
   resolve: {
     alias: {
       '@': '/src'
